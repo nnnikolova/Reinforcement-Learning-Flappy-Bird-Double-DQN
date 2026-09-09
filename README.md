@@ -52,12 +52,11 @@ for all three runs plus evaluation):
 
 | Seed run | Avg. score |
 |---|---|
-| 0 | *(fill in from your latest run)* |
-| 1 | *(fill in)* |
-| 2 | *(fill in)* |
-| **Mean** | **(fill in)** |
+| 0 | 26.51|
+| 1 | 37.69 |
+| 2 | 20.76 |
+| **Mean** | 28.32 |
 
-*(Update this table with your final submission numbers before publishing.)*
 
 ## Project structure
 
